@@ -1,0 +1,47 @@
+body{
+    background-color: greenyellow;
+}
+h2{
+    font-size: 135%;
+}
+.img{
+    display: block;
+    margin: auto;
+    height: 50%;
+    width: 50%;
+}
+.todo{
+    text-align: center;
+    font-size: 125%;
+    background-color: aquamarine;
+    color: red;
+    padding: 5px;
+}
+.todops3{
+    text-align: center;
+    font-size: 125%;
+    background-color: green;
+    color:red;
+    padding: 5px;
+}
+a{
+    text-decoration: none;
+    font-size: 100%;
+    
+}
+a:hover{
+    color: #191970;
+    font-size: 110%;
+}
+.spam{
+    text-decoration: none;
+    font-size: 100%;
+    color: brown;
+    display: inline;
+    text-align: center;
+
+}
+.spam:hover{
+    font-size: 110%;
+    color: orange;
+}
